@@ -1,1 +1,1 @@
-"# automatic_farming" 
+# automatic_farming
